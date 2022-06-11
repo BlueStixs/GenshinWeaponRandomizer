@@ -18,6 +18,7 @@ video {
 button {
     background-color: white;
     border-radius: 10px;
+    color: black;
     font-family: 'Bebas Neue', cursive;
     font-size: 150%;
     position: absolute;
